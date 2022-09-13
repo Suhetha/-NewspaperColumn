@@ -1,0 +1,109 @@
+<head>
+<title>asdf</title>
+<style>
+body{
+margin: 0 auto;
+background-image: url("blu.jpg");
+background-position: right top;
+margin-right: 100px;
+background-attachment: fixed;
+}
+h1{
+font-family:Times New Roman;
+}
+.main_container {
+font-family:arial;
+font-size:20px;
+width:1260px;
+min-height:1200px;
+border:8px solid black;
+border-style:dashed;
+margin:auto;
+margin-top:50px;
+background-color:lightgrey;
+padding:20px;
+}
+div#multi_column{
+width:100%;
+margin:0px auto;
+column-count:3;
+column-rule:3px solid black;
+background-color:light grey;
+}
+div#multi_column>div{
+margin-bottom:2px;
+padding:16px;
+border:2px black;
+}
+div#multi_column>div:nth-child(2n+2){
+background:pink;}
+div#multi_column>div:nth-child(2n+1){
+background:lavender;}
+</style>
+</head>
+<body>
+<div class="main_container">
+<center><img src="logo1.jpg" width="110" height="80"></center>
+<h1 style="text-align:center;"> <i>THE WORLD EXPRESS</i></h1>
+<h3> <center>Coimbatore Tiruppur Tanjavur Chennai Madurai
+Kannyakumari Theni Vellore</center></h3>
+<div id="multi_column">
+<div><b>TOP STORIES</b><ul>
+<li>Union Minister V.K. Singh calls NYT ‘Supari Media’ over its report on
+Pegasus..</li>
+<li>Australian Open 2022 | Ashleigh Barty lifts title;</li>
+<li>BSF, Pakistan Rangers revive talk</li>
+<li>No more night curfew in Karnataka from January 31...</li></ul>
+</div>
+<div><b>Political Line | Challenges for Samajwadi Party in U.P.; rights and
+duties</b><br>A Jat—Muslim compact is supposed to be the axis of the
+Samajwadi Party’s social engineering efforts in western Uttar Pradesh. The SP
+is in alliance with the Rashtriya Lok Dal (RLD) — the traditional vehicle of Jat
+politics.There is nothing inevitable about the coalition of the two communities;
+and there are enough tensions between them that could splinter their tenuous
+pact. The BJP is relentlessly wooing the Jats, while the Bahujan Samaj Party
+(BSP) is trying to woo the Muslims......Read More on page 3</div>
+<div><b>SCIENCE</b><ul><li>Two species of fungi associated with basal stem
+rot found.....</li>
+<li>Adding radioactive substances in wearables unjustified...</li>
+<li>The progress of evolution.....</li></ul></div>
+<div><b>India needs multi-pronged approach to connect 1.3 billion people:
+Airtel on Jio-Google ties............Read on page 6</b></div>
+<div><b>‘Banks to transfer 15 NPAs worth 50,000 cr. to NARCL.... <br><img
+src="bus.jpg" width="180" height="150"></b><br>
+The banking sector will transfer 15 assets worth Rs 50,000 crore to NARCL in
+FY22, he said. NARCL will acquire and aggregate the identified non-performing
+asset (NPA) accounts from the banks, while the IDRCL, under an exclusive
+arrangement, will handle the debt resolution proces.....Read more on psge
+4</div>
+<div><b>India’s equity market bubble may burst soon</b><br>Even as the real
+economy returns to the doldrums after being hit by the second wave of COVID-
+19 infections, the continuing bull run in India’s equity market in the April-June
+quarter has baffled many observers. After breaching the 41,000-mark between
+December 2019 and February 2020, the benchmark BSE Sensex had nosedived
+to below 28,000 in March-April 2020, following the nationwide lockdown.
+Although India’s stringent lockdown could not prevent the COVID-19 pandemic
+from doing considerable damage, the equity market posted a sharp V-shaped
+recovery in 2020-21. The Sensex surged beyond 50,000 in February 2021 and is
+currently closing on the 53,000 level....Read on page 8</div>
+<div><b>Apple posts record sales as chip crunch eases.....</b></div>
+<div><b>Govt forecasts 8-8.5% GDP growth in FY23 .....</b><br><img
+src="nir.jpg" width="250" height="200"><br><br>
+Finance Minister Nirmala Sitharaman on Monday tabled the Economic Survey
+2021-22 in Lok Sabha. The government sees the Indian economy growing at 8-
+8.5 per cent in the financial year 2022-23 (FY23). The GDP growth rate for the
+ongoing financial year 2021-22 (FY22) is estimated at 9.2 per cent.
+The Economic Survey noted that economic activity has recovered to prepandemic
+level. It further added that the economy is well placed to take on
+challenges in 2022-23. Robust export growth and availability of fiscal space to
+ramp up capital spending to support growth next fiscal.The Economic Survey is
+an annual document prepared by the Ministry of Finance under the guidance
+of the Chief Economic Advisor (CEA) and it provides a summary of annual
+economic development across the country during the financial year 2021-22.
+The government on Friday appointed Dr. V Anantha Nageswaran as the new
+CEA adding in a statement that he has assumed charge. He replaced KV
+Subramanian whose three-year term ended in December.....Read more on
+page 4</div>
+</div>
+</body>
+</html>
